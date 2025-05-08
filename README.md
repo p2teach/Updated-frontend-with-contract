@@ -1,1 +1,3 @@
 # Updated-frontend-with-contract
+Used hardhat for setting up the deployment environment...
+(still working on the integration)
